@@ -26,7 +26,7 @@ import { Component, OnInit } from '@angular/core';
                 [routerLink]="['/']"
                 routerLinkActive="active"
                 [routerLinkActiveOptions]="{ exact: true }"
-                >Home</a
+                >Home.</a
               >
             </li>
             <li class="nav-item">
